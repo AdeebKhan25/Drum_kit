@@ -15,16 +15,16 @@ To get started with this project locally, follow these steps:
 ```bash
 git clone https://github.com/AdeebKhan25/Drum_kit.git
 ```
-2. Navigate to the Drum_kit Directory:
+2. Navigate to the Drum_kit directory:
 ```bash
 cd Drum_kit
 ```
-3. Open index.html by any web-browser to run your Drum kit.
+3. Open index.html by any web browser to run your Drum kit.
 
 ## Screenshot
 
 ![App](https://github.com/user-attachments/assets/8d4f29f3-ce73-4638-9643-016c346da16a)
 
-### Further Asistance
+### Further Assistance
 
 If you need any more help or have other questions, feel free to ask. Happy coding! 🚀
