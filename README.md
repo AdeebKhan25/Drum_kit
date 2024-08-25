@@ -15,7 +15,7 @@ To get started with this project locally, follow these steps:
 ```bash
 git clone https://github.com/AdeebKhan25/Drum_kit.git
 ```
-2. Navigate to the WeatherApp Directory:
+2. Navigate to the Drum_kit Directory:
 ```bash
 cd Drum_kit
 ```
