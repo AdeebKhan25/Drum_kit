@@ -1,4 +1,3 @@
-
 a = document.querySelectorAll("button");
 for(var i = 0;i < 7;i++){
 	a[i].addEventListener("click", function(){
