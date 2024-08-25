@@ -19,7 +19,7 @@ git clone https://github.com/AdeebKhan25/Drum_kit.git
 ```bash
 cd Drum_kit
 ```
-3. Click on index.html to run your Drum kit.
+3. Open index.html by any web-browser to run your Drum kit.
 
 ## Screenshot
 
